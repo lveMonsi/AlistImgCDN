@@ -11,7 +11,7 @@
 ## 使用教程
 1. 复制你想要静态化的 Alist 文件下载链接
 ```
-https://你的Alist域名/d/root/nyancat.gif
+你的Alist域名/d/root/nyancat.gif
 ```
 2. 取其主域名后的路径参数，拼接到 `该项目域名 + /img/` 后，如下
 ```
