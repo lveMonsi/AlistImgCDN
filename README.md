@@ -25,7 +25,6 @@
 
 ```
 https://你的Alist域名/d/root/nyancat.gif
-
 ```
 
 1. 取其主域名后的路径参数，拼接到 `该项目域名 + /img/` 后，如下
